@@ -40,7 +40,7 @@ This is a smart AI-powered chatbot built with Python and Tkinter that provides v
 ### 1. Clone the Repository
 
 ```bash
-[git clone https://github.com/yourusername/chatbot-desktop-app.git](https://github.com/sxoham/Python-Chatbot)
+[git clone https://github.com/sxoham/Python-Chatbot
 cd Python-Chatbot
 ```
 
