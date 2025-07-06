@@ -123,6 +123,3 @@ chatbot_project/
 
 ---
 
-## 📝 License
-
-MIT License – use freely, modify with credit!
