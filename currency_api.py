@@ -11,7 +11,7 @@ def convert_currency(amount, from_currency, to_currency):
             "from": from_currency,
             "to": to_currency,
             "amount": amount,
-            "access_key": "6ef7706505f20d778c89a19b6c8f5959"  # ✅ Your access key
+            "access_key": " "  # ✅ Your access key
         }
 
         response = requests.get(url, params=params)
