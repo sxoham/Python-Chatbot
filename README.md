@@ -1,6 +1,6 @@
-# 🧠 AI Chatbot Desktop App
+# 🧠 Chatbot Desktop App
 
-This is a smart AI-powered chatbot built with Python and Tkinter that provides various utilities like weather updates, jokes, math solving, Wikipedia summaries, currency/unit conversion, reminders, and more. It also supports voice output (TTS) and light/dark themes.
+This is a smart Chatbot built with Python and Tkinter that provides various utilities like weather updates, jokes, math solving, Wikipedia summaries, currency/unit conversion, reminders, and more. It also supports voice output (TTS) and light/dark themes.
 
 ---
 
