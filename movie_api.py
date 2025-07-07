@@ -1,7 +1,7 @@
 # movie_api.py
 import requests
 
-OMDB_API_KEY = "4b8cce33"  # Replace with your key
+OMDB_API_KEY = " "  # Replace with your key
 
 def get_movie_info(title):
     try:
