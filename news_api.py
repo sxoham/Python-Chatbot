@@ -3,7 +3,7 @@ import requests
 def get_news(query=None):
     try:
         base_url = "https://gnews.io/api/v4/search"
-        api_key = "c1ea2d944c2373a21c6a67a599db28a8"
+        api_key = " " #Replace with your api key
 
         params = {
             "token": api_key,
